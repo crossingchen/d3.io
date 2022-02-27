@@ -4,7 +4,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 1,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -13,7 +13,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 2,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 10,
     "RH": 86
   },
@@ -22,7 +22,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 3,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 9.4,
     "RH": 86
   },
@@ -31,7 +31,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 4,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -40,7 +40,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 5,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.9,
     "RH": 86
   },
@@ -49,7 +49,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 6,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 9.4,
     "RH": 93
   },
@@ -58,7 +58,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 7,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 9.4,
     "RH": 96
   },
@@ -67,7 +67,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 8,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 9.4,
     "RH": 93
   },
@@ -76,7 +76,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 9,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10,
     "RH": 83
   },
@@ -85,7 +85,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 10,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 10.6,
     "RH": 83
   },
@@ -94,7 +94,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 11,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 10,
     "RH": 78
   },
@@ -103,7 +103,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 12,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 10.6,
     "RH": 78
   },
@@ -112,7 +112,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 13,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 10.6,
     "RH": 72
   },
@@ -121,7 +121,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 14,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 11.7,
     "RH": 78
   },
@@ -130,7 +130,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 15,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 12.2,
     "RH": 75
   },
@@ -139,7 +139,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 16,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 12.2,
     "RH": 75
   },
@@ -148,7 +148,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 17,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 11.7,
     "RH": 81
   },
@@ -157,7 +157,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 18,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 11.1,
     "RH": 78
   },
@@ -166,7 +166,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 19,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.7,
     "RH": 84
   },
@@ -175,7 +175,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 20,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.7,
     "RH": 84
   },
@@ -184,7 +184,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 21,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.1,
     "RH": 83
   },
@@ -193,7 +193,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 22,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10.6,
     "RH": 86
   },
@@ -202,7 +202,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 23,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10.6,
     "RH": 86
   },
@@ -211,7 +211,7 @@
     "Month": 1,
     "Day": 1,
     "Hour": 24,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 10,
     "RH": 86
   },
@@ -220,7 +220,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 1,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 10.6,
     "RH": 90
   },
@@ -229,7 +229,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 2,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 10.6,
     "RH": 93
   },
@@ -238,7 +238,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 3,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -247,7 +247,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 4,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.1,
     "RH": 96
   },
@@ -256,7 +256,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 5,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 10.6,
     "RH": 93
   },
@@ -265,7 +265,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 6,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 10.6,
     "RH": 93
   },
@@ -274,7 +274,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 7,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 11.1,
     "RH": 100
   },
@@ -283,7 +283,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 8,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -292,7 +292,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 9,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.1,
     "RH": 96
   },
@@ -301,7 +301,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 10,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -310,7 +310,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 11,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 11.7,
     "RH": 93
   },
@@ -319,7 +319,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 12,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -328,7 +328,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 13,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -337,7 +337,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 14,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -346,7 +346,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 15,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -355,7 +355,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 16,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -364,7 +364,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 17,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -373,7 +373,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 18,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -382,7 +382,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 19,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -391,7 +391,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 20,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -400,7 +400,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 21,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -409,7 +409,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 22,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -418,7 +418,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 23,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -427,7 +427,7 @@
     "Month": 1,
     "Day": 2,
     "Hour": 24,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.8,
     "RH": 100
   },
@@ -436,7 +436,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 1,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.9,
     "RH": 100
   },
@@ -445,7 +445,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 2,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -454,7 +454,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 3,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 11.7,
     "RH": 90
   },
@@ -463,7 +463,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 4,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 8.3,
     "RH": 75
   },
@@ -472,7 +472,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 5,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 5,
     "RH": 64
   },
@@ -481,7 +481,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 6,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 3.3,
     "RH": 57
   },
@@ -490,7 +490,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 7,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 1.7,
     "RH": 51
   },
@@ -499,7 +499,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 8,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 2.2,
     "RH": 53
   },
@@ -508,7 +508,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 9,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 2.2,
     "RH": 49
   },
@@ -517,7 +517,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 10,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 2.2,
     "RH": 44
   },
@@ -526,7 +526,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 11,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 4.4,
     "RH": 51
   },
@@ -535,7 +535,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 12,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 3.9,
     "RH": 48
   },
@@ -544,7 +544,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 13,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 5.6,
     "RH": 54
   },
@@ -553,7 +553,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 14,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 6.7,
     "RH": 58
   },
@@ -562,7 +562,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 15,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 7.2,
     "RH": 60
   },
@@ -571,7 +571,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 16,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 7.8,
     "RH": 58
   },
@@ -580,7 +580,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 17,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 8.3,
     "RH": 62
   },
@@ -589,7 +589,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 18,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 7.8,
     "RH": 60
   },
@@ -598,7 +598,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 19,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.9,
     "RH": 67
   },
@@ -607,7 +607,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 20,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 2.8,
     "RH": 47
   },
@@ -616,7 +616,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 21,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 2.8,
     "RH": 49
   },
@@ -625,7 +625,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 22,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 2.8,
     "RH": 51
   },
@@ -634,7 +634,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 23,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 2.8,
     "RH": 53
   },
@@ -643,7 +643,7 @@
     "Month": 1,
     "Day": 3,
     "Hour": 24,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 2.8,
     "RH": 55
   },
@@ -652,7 +652,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 1,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 2.2,
     "RH": 57
   },
@@ -661,7 +661,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 2,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 3.3,
     "RH": 66
   },
@@ -670,7 +670,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 3,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 3.9,
     "RH": 80
   },
@@ -679,7 +679,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 4,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 3.9,
     "RH": 80
   },
@@ -688,7 +688,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 5,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 3.3,
     "RH": 74
   },
@@ -697,7 +697,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 6,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 2.2,
     "RH": 71
   },
@@ -706,7 +706,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 7,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.2,
     "RH": 68
   },
@@ -715,7 +715,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 8,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 3.3,
     "RH": 68
   },
@@ -724,7 +724,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 9,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 4.4,
     "RH": 66
   },
@@ -733,7 +733,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 10,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 6.1,
     "RH": 64
   },
@@ -742,7 +742,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 11,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 8.3,
     "RH": 69
   },
@@ -751,7 +751,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 12,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 7.8,
     "RH": 62
   },
@@ -760,7 +760,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 13,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 6.7,
     "RH": 56
   },
@@ -769,7 +769,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 14,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 7.8,
     "RH": 60
   },
@@ -778,7 +778,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 15,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.3,
     "RH": 65
   },
@@ -787,7 +787,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 16,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 7.2,
     "RH": 60
   },
@@ -796,7 +796,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 17,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 7.8,
     "RH": 67
   },
@@ -805,7 +805,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 18,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 7.2,
     "RH": 69
   },
@@ -814,7 +814,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 19,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 7.2,
     "RH": 74
   },
@@ -823,7 +823,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 20,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 5.6,
     "RH": 64
   },
@@ -832,7 +832,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 21,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 5.6,
     "RH": 64
   },
@@ -841,7 +841,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 22,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 7.2,
     "RH": 74
   },
@@ -850,7 +850,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 23,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 6.7,
     "RH": 77
   },
@@ -859,7 +859,7 @@
     "Month": 1,
     "Day": 4,
     "Hour": 24,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 6.7,
     "RH": 80
   },
@@ -868,7 +868,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 1,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 6.7,
     "RH": 80
   },
@@ -877,7 +877,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 2,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 6.1,
     "RH": 83
   },
@@ -886,7 +886,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 3,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 6.1,
     "RH": 86
   },
@@ -895,7 +895,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 4,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 6.1,
     "RH": 86
   },
@@ -904,7 +904,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 5,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 5,
     "RH": 83
   },
@@ -913,7 +913,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 6,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 5.6,
     "RH": 86
   },
@@ -922,7 +922,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 7,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 6.1,
     "RH": 80
   },
@@ -931,7 +931,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 8,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 6.7,
     "RH": 89
   },
@@ -940,7 +940,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 9,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 7.2,
     "RH": 86
   },
@@ -949,7 +949,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 10,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 7.8,
     "RH": 86
   },
@@ -958,7 +958,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 11,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 8.3,
     "RH": 80
   },
@@ -967,7 +967,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 12,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 8.9,
     "RH": 75
   },
@@ -976,7 +976,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 13,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 7.8,
     "RH": 69
   },
@@ -985,7 +985,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 14,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 6.7,
     "RH": 64
   },
@@ -994,7 +994,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 15,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 8.3,
     "RH": 72
   },
@@ -1003,7 +1003,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 16,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.9,
     "RH": 86
   },
@@ -1012,7 +1012,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 17,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 8.9,
     "RH": 90
   },
@@ -1021,7 +1021,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 18,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 8.9,
     "RH": 90
   },
@@ -1030,7 +1030,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 19,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 9.4,
     "RH": 93
   },
@@ -1039,7 +1039,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 20,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 9.4,
     "RH": 96
   },
@@ -1048,7 +1048,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 21,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 8.9,
     "RH": 96
   },
@@ -1057,7 +1057,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 22,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1066,7 +1066,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 23,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1075,7 +1075,7 @@
     "Month": 1,
     "Day": 5,
     "Hour": 24,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.2,
     "RH": 93
   },
@@ -1084,7 +1084,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 1,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1093,7 +1093,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 2,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 8.3,
     "RH": 100
   },
@@ -1102,7 +1102,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 3,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1111,7 +1111,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 4,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1120,7 +1120,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 5,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1129,7 +1129,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 6,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1138,7 +1138,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 7,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.2,
     "RH": 93
   },
@@ -1147,7 +1147,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 8,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.2,
     "RH": 93
   },
@@ -1156,7 +1156,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 9,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.8,
     "RH": 96
   },
@@ -1165,7 +1165,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 10,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 8.3,
     "RH": 100
   },
@@ -1174,7 +1174,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 11,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 8.9,
     "RH": 100
   },
@@ -1183,7 +1183,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 12,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1192,7 +1192,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 13,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1201,7 +1201,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 14,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1210,7 +1210,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 15,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -1219,7 +1219,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 16,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -1228,7 +1228,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 17,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -1237,7 +1237,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 18,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -1246,7 +1246,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 19,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1255,7 +1255,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 20,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1264,7 +1264,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 21,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -1273,7 +1273,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 22,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -1282,7 +1282,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 23,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -1291,7 +1291,7 @@
     "Month": 1,
     "Day": 6,
     "Hour": 24,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -1300,7 +1300,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 1,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1309,7 +1309,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 2,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -1318,7 +1318,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 3,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10.6,
     "RH": 100
   },
@@ -1327,7 +1327,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 4,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10.6,
     "RH": 100
   },
@@ -1336,7 +1336,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 5,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10.6,
     "RH": 100
   },
@@ -1345,7 +1345,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 6,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10.6,
     "RH": 100
   },
@@ -1354,7 +1354,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 7,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -1363,7 +1363,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 8,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -1372,7 +1372,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 9,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 11.1,
     "RH": 100
   },
@@ -1381,7 +1381,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 10,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 11.1,
     "RH": 100
   },
@@ -1390,7 +1390,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 11,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 10.6,
     "RH": 93
   },
@@ -1399,7 +1399,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 12,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -1408,7 +1408,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 13,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -1417,7 +1417,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 14,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 9.4,
     "RH": 96
   },
@@ -1426,7 +1426,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 15,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 8.9,
     "RH": 93
   },
@@ -1435,7 +1435,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 16,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -1444,7 +1444,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 17,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -1453,7 +1453,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 18,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 7.8,
     "RH": 83
   },
@@ -1462,7 +1462,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 19,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 7.8,
     "RH": 83
   },
@@ -1471,7 +1471,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 20,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 7.2,
     "RH": 80
   },
@@ -1480,7 +1480,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 21,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 6.7,
     "RH": 77
   },
@@ -1489,7 +1489,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 22,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 5,
     "RH": 69
   },
@@ -1498,7 +1498,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 23,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 3.9,
     "RH": 61
   },
@@ -1507,7 +1507,7 @@
     "Month": 1,
     "Day": 7,
     "Hour": 24,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 3.9,
     "RH": 61
   },
@@ -1516,7 +1516,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 1,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 4.4,
     "RH": 66
   },
@@ -1525,7 +1525,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 2,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 6.1,
     "RH": 80
   },
@@ -1534,7 +1534,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 3,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 6.1,
     "RH": 93
   },
@@ -1543,7 +1543,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 4,
-    "Dry-bulb": 6.7,
+    "DryBT": 6.7,
     "Dew Point": 5.6,
     "RH": 93
   },
@@ -1552,7 +1552,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 5,
-    "Dry-bulb": 6.7,
+    "DryBT": 6.7,
     "Dew Point": 6.1,
     "RH": 96
   },
@@ -1561,7 +1561,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 6,
-    "Dry-bulb": 5.6,
+    "DryBT": 5.6,
     "Dew Point": 4.4,
     "RH": 93
   },
@@ -1570,7 +1570,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 7,
-    "Dry-bulb": 5.6,
+    "DryBT": 5.6,
     "Dew Point": 5.6,
     "RH": 100
   },
@@ -1579,7 +1579,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 8,
-    "Dry-bulb": 6.7,
+    "DryBT": 6.7,
     "Dew Point": 6.7,
     "RH": 100
   },
@@ -1588,7 +1588,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 9,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 8.3,
     "RH": 93
   },
@@ -1597,7 +1597,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 10,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 8.9,
     "RH": 83
   },
@@ -1606,7 +1606,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 11,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 4.4,
     "RH": 51
   },
@@ -1615,7 +1615,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 12,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 6.7,
     "RH": 58
   },
@@ -1624,7 +1624,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 13,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 5.6,
     "RH": 54
   },
@@ -1633,7 +1633,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 14,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 7.2,
     "RH": 60
   },
@@ -1642,7 +1642,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 15,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 7.2,
     "RH": 58
   },
@@ -1651,7 +1651,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 16,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 7.2,
     "RH": 58
   },
@@ -1660,7 +1660,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 17,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 6.1,
     "RH": 56
   },
@@ -1669,7 +1669,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 18,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 7.2,
     "RH": 67
   },
@@ -1678,7 +1678,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 19,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 0,
     "RH": 40
   },
@@ -1687,7 +1687,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 20,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": -0.6,
     "RH": 40
   },
@@ -1696,7 +1696,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 21,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": -1.1,
     "RH": 41
   },
@@ -1705,7 +1705,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 22,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 1.1,
     "RH": 56
   },
@@ -1714,7 +1714,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 23,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 1.7,
     "RH": 59
   },
@@ -1723,7 +1723,7 @@
     "Month": 1,
     "Day": 8,
     "Hour": 24,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 3.3,
     "RH": 66
   },
@@ -1732,7 +1732,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 1,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 2.8,
     "RH": 68
   },
@@ -1741,7 +1741,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 2,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.2,
     "RH": 68
   },
@@ -1750,7 +1750,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 3,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.2,
     "RH": 68
   },
@@ -1759,7 +1759,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 4,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.2,
     "RH": 68
   },
@@ -1768,7 +1768,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 5,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 2.2,
     "RH": 76
   },
@@ -1777,7 +1777,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 6,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 1.7,
     "RH": 68
   },
@@ -1786,7 +1786,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 7,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 1.7,
     "RH": 68
   },
@@ -1795,7 +1795,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 8,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.2,
     "RH": 68
   },
@@ -1804,7 +1804,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 9,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 2.2,
     "RH": 57
   },
@@ -1813,7 +1813,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 10,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 3.9,
     "RH": 55
   },
@@ -1822,7 +1822,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 11,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 5.6,
     "RH": 55
   },
@@ -1831,7 +1831,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 12,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 7.2,
     "RH": 58
   },
@@ -1840,7 +1840,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 13,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 7.8,
     "RH": 56
   },
@@ -1849,7 +1849,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 14,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 7.8,
     "RH": 56
   },
@@ -1858,7 +1858,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 15,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 9.4,
     "RH": 63
   },
@@ -1867,7 +1867,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 16,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 9.4,
     "RH": 65
   },
@@ -1876,7 +1876,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 17,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 8.9,
     "RH": 70
   },
@@ -1885,7 +1885,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 18,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 8.3,
     "RH": 72
   },
@@ -1894,7 +1894,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 19,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 8.9,
     "RH": 77
   },
@@ -1903,7 +1903,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 20,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 2.2,
     "RH": 51
   },
@@ -1912,7 +1912,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 21,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 1.7,
     "RH": 49
   },
@@ -1921,7 +1921,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 22,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 1.1,
     "RH": 47
   },
@@ -1930,7 +1930,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 23,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 1.7,
     "RH": 54
   },
@@ -1939,7 +1939,7 @@
     "Month": 1,
     "Day": 9,
     "Hour": 24,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 1.7,
     "RH": 57
   },
@@ -1948,7 +1948,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 1,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 1.7,
     "RH": 63
   },
@@ -1957,7 +1957,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 2,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 2.2,
     "RH": 66
   },
@@ -1966,7 +1966,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 3,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.2,
     "RH": 68
   },
@@ -1975,7 +1975,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 4,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 1.7,
     "RH": 68
   },
@@ -1984,7 +1984,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 5,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 1.1,
     "RH": 71
   },
@@ -1993,7 +1993,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 6,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 0.6,
     "RH": 68
   },
@@ -2002,7 +2002,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 7,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": -0.6,
     "RH": 63
   },
@@ -2011,7 +2011,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 8,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 1.1,
     "RH": 61
   },
@@ -2020,7 +2020,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 9,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 1.7,
     "RH": 54
   },
@@ -2029,7 +2029,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 10,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 2.2,
     "RH": 47
   },
@@ -2038,7 +2038,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 11,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 6.1,
     "RH": 56
   },
@@ -2047,7 +2047,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 12,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 9.4,
     "RH": 70
   },
@@ -2056,7 +2056,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 13,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 9.4,
     "RH": 70
   },
@@ -2065,7 +2065,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 14,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 8.9,
     "RH": 65
   },
@@ -2074,7 +2074,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 15,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 8.3,
     "RH": 62
   },
@@ -2083,7 +2083,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 16,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.3,
     "RH": 65
   },
@@ -2092,7 +2092,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 17,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 7.8,
     "RH": 67
   },
@@ -2101,7 +2101,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 18,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 7.8,
     "RH": 75
   },
@@ -2110,7 +2110,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 19,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 7.8,
     "RH": 75
   },
@@ -2119,7 +2119,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 20,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 8.9,
     "RH": 83
   },
@@ -2128,7 +2128,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 21,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 8.3,
     "RH": 80
   },
@@ -2137,7 +2137,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 22,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -2146,7 +2146,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 23,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 4.4,
     "RH": 69
   },
@@ -2155,7 +2155,7 @@
     "Month": 1,
     "Day": 10,
     "Hour": 24,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 3.9,
     "RH": 69
   },
@@ -2164,7 +2164,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 1,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 4.4,
     "RH": 77
   },
@@ -2173,7 +2173,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 2,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 4.4,
     "RH": 83
   },
@@ -2182,7 +2182,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 3,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 4.4,
     "RH": 89
   },
@@ -2191,7 +2191,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 4,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 3.9,
     "RH": 86
   },
@@ -2200,7 +2200,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 5,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 3.3,
     "RH": 77
   },
@@ -2209,7 +2209,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 6,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 3.3,
     "RH": 83
   },
@@ -2218,7 +2218,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 7,
-    "Dry-bulb": 6.1,
+    "DryBT": 6.1,
     "Dew Point": 1.7,
     "RH": 73
   },
@@ -2227,7 +2227,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 8,
-    "Dry-bulb": 7.2,
+    "DryBT": 7.2,
     "Dew Point": 3.3,
     "RH": 77
   },
@@ -2236,7 +2236,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 9,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 3.3,
     "RH": 57
   },
@@ -2245,7 +2245,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 10,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 3.3,
     "RH": 48
   },
@@ -2254,7 +2254,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 11,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 2.2,
     "RH": 37
   },
@@ -2263,7 +2263,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 12,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 2.8,
     "RH": 36
   },
@@ -2272,7 +2272,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 13,
-    "Dry-bulb": 20.6,
+    "DryBT": 20.6,
     "Dew Point": 3.3,
     "RH": 32
   },
@@ -2281,7 +2281,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 14,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 3.9,
     "RH": 35
   },
@@ -2290,7 +2290,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 15,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 9.4,
     "RH": 60
   },
@@ -2299,7 +2299,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 16,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 10.6,
     "RH": 67
   },
@@ -2308,7 +2308,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 17,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 10.6,
     "RH": 72
   },
@@ -2317,7 +2317,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 18,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 9.4,
     "RH": 70
   },
@@ -2326,7 +2326,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 19,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 1.1,
     "RH": 39
   },
@@ -2335,7 +2335,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 20,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 0.6,
     "RH": 38
   },
@@ -2344,7 +2344,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 1.1,
     "RH": 41
   },
@@ -2353,7 +2353,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 22,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 1.7,
     "RH": 45
   },
@@ -2362,7 +2362,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 23,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 1.7,
     "RH": 45
   },
@@ -2371,7 +2371,7 @@
     "Month": 1,
     "Day": 11,
     "Hour": 24,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 1.1,
     "RH": 49
   },
@@ -2380,7 +2380,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 1,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 1.7,
     "RH": 53
   },
@@ -2389,7 +2389,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 2,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 2.2,
     "RH": 63
   },
@@ -2398,7 +2398,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 3,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 2.2,
     "RH": 61
   },
@@ -2407,7 +2407,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 4,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 2.2,
     "RH": 61
   },
@@ -2416,7 +2416,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 5,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.8,
     "RH": 71
   },
@@ -2425,7 +2425,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 6,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 2.2,
     "RH": 66
   },
@@ -2434,7 +2434,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 7,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 2.8,
     "RH": 66
   },
@@ -2443,7 +2443,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 8,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 3.3,
     "RH": 68
   },
@@ -2452,7 +2452,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 9,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 3.3,
     "RH": 57
   },
@@ -2461,7 +2461,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 10,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 6.1,
     "RH": 64
   },
@@ -2470,7 +2470,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 11,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 11.1,
     "RH": 75
   },
@@ -2479,7 +2479,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 12,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 11.7,
     "RH": 75
   },
@@ -2488,7 +2488,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 13,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 10.6,
     "RH": 65
   },
@@ -2497,7 +2497,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 14,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 11.1,
     "RH": 65
   },
@@ -2506,7 +2506,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 15,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 10.6,
     "RH": 67
   },
@@ -2515,7 +2515,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 16,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 10.6,
     "RH": 70
   },
@@ -2524,7 +2524,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 17,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 11.7,
     "RH": 78
   },
@@ -2533,7 +2533,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 18,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.1,
     "RH": 81
   },
@@ -2542,7 +2542,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 19,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.7,
     "RH": 84
   },
@@ -2551,7 +2551,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 20,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.1,
     "RH": 83
   },
@@ -2560,7 +2560,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 21,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 11.1,
     "RH": 87
   },
@@ -2569,7 +2569,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 22,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 10.6,
     "RH": 90
   },
@@ -2578,7 +2578,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 23,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 10.6,
     "RH": 90
   },
@@ -2587,7 +2587,7 @@
     "Month": 1,
     "Day": 12,
     "Hour": 24,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 10.6,
     "RH": 90
   },
@@ -2596,7 +2596,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 1,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 10,
     "RH": 90
   },
@@ -2605,7 +2605,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 2,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -2614,7 +2614,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 3,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 8.9,
     "RH": 93
   },
@@ -2623,7 +2623,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 4,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 8.9,
     "RH": 96
   },
@@ -2632,7 +2632,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 5,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 8.3,
     "RH": 93
   },
@@ -2641,7 +2641,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 6,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 7.8,
     "RH": 89
   },
@@ -2650,7 +2650,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 7,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 7.2,
     "RH": 93
   },
@@ -2659,7 +2659,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 8,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 7.2,
     "RH": 89
   },
@@ -2668,7 +2668,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 9,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -2677,7 +2677,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 10,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 8.9,
     "RH": 72
   },
@@ -2686,7 +2686,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 11,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 10,
     "RH": 70
   },
@@ -2695,7 +2695,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 12,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 10,
     "RH": 70
   },
@@ -2704,7 +2704,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 13,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 7.8,
     "RH": 58
   },
@@ -2713,7 +2713,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 14,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 11.1,
     "RH": 70
   },
@@ -2722,7 +2722,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 15,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 12.2,
     "RH": 75
   },
@@ -2731,7 +2731,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 16,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 10.6,
     "RH": 70
   },
@@ -2740,7 +2740,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 17,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 10.6,
     "RH": 75
   },
@@ -2749,7 +2749,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 18,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 10,
     "RH": 78
   },
@@ -2758,7 +2758,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 19,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -2767,7 +2767,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 20,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -2776,7 +2776,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 21,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 10.6,
     "RH": 83
   },
@@ -2785,7 +2785,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 22,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 11.1,
     "RH": 90
   },
@@ -2794,7 +2794,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 23,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -2803,7 +2803,7 @@
     "Month": 1,
     "Day": 13,
     "Hour": 24,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -2812,7 +2812,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 1,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 9.4,
     "RH": 93
   },
@@ -2821,7 +2821,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 2,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 8.9,
     "RH": 93
   },
@@ -2830,7 +2830,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 3,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 8.9,
     "RH": 93
   },
@@ -2839,7 +2839,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 4,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 8.3,
     "RH": 96
   },
@@ -2848,7 +2848,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 5,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 8.3,
     "RH": 93
   },
@@ -2857,7 +2857,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 6,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 7.8,
     "RH": 86
   },
@@ -2866,7 +2866,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 7,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 7.2,
     "RH": 83
   },
@@ -2875,7 +2875,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 8,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 7.8,
     "RH": 86
   },
@@ -2884,7 +2884,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 9,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -2893,7 +2893,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 10,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 9.4,
     "RH": 75
   },
@@ -2902,7 +2902,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 11,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 8.3,
     "RH": 60
   },
@@ -2911,7 +2911,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 12,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 6.7,
     "RH": 47
   },
@@ -2920,7 +2920,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 13,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 4.4,
     "RH": 36
   },
@@ -2929,7 +2929,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 14,
-    "Dry-bulb": 20.6,
+    "DryBT": 20.6,
     "Dew Point": 5.6,
     "RH": 38
   },
@@ -2938,7 +2938,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 15,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 11.7,
     "RH": 61
   },
@@ -2947,7 +2947,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 16,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 12.2,
     "RH": 70
   },
@@ -2956,7 +2956,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 17,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 12.2,
     "RH": 78
   },
@@ -2965,7 +2965,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 18,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.2,
     "RH": 90
   },
@@ -2974,7 +2974,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 19,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -2983,7 +2983,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 20,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -2992,7 +2992,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 21,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 1.7,
     "RH": 44
   },
@@ -3001,7 +3001,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 22,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 1.1,
     "RH": 44
   },
@@ -3010,7 +3010,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 23,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 5,
     "RH": 62
   },
@@ -3019,7 +3019,7 @@
     "Month": 1,
     "Day": 14,
     "Hour": 24,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 4.4,
     "RH": 62
   },
@@ -3028,7 +3028,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 1,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 2.2,
     "RH": 53
   },
@@ -3037,7 +3037,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 2,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 1.7,
     "RH": 57
   },
@@ -3046,7 +3046,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 3,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 1.7,
     "RH": 58
   },
@@ -3055,7 +3055,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 4,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 1.7,
     "RH": 61
   },
@@ -3064,7 +3064,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 5,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 0.6,
     "RH": 54
   },
@@ -3073,7 +3073,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 6,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 1.1,
     "RH": 61
   },
@@ -3082,7 +3082,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 7,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 1.1,
     "RH": 61
   },
@@ -3091,7 +3091,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 8,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 1.7,
     "RH": 59
   },
@@ -3100,7 +3100,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 9,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 2.8,
     "RH": 53
   },
@@ -3109,7 +3109,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 10,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 2.8,
     "RH": 43
   },
@@ -3118,7 +3118,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 11,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 2.2,
     "RH": 35
   },
@@ -3127,7 +3127,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 12,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 1.7,
     "RH": 31
   },
@@ -3136,7 +3136,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 13,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 6.1,
     "RH": 38
   },
@@ -3145,7 +3145,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 14,
-    "Dry-bulb": 20.6,
+    "DryBT": 20.6,
     "Dew Point": 7.8,
     "RH": 44
   },
@@ -3154,7 +3154,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 15,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 7.8,
     "RH": 47
   },
@@ -3163,7 +3163,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 16,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 8.3,
     "RH": 52
   },
@@ -3172,7 +3172,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 17,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 9.4,
     "RH": 60
   },
@@ -3181,7 +3181,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 18,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.2,
     "RH": 90
   },
@@ -3190,7 +3190,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 19,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.7,
     "RH": 87
   },
@@ -3199,7 +3199,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 20,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.1,
     "RH": 83
   },
@@ -3208,7 +3208,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 21,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.7,
     "RH": 87
   },
@@ -3217,7 +3217,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 22,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -3226,7 +3226,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 23,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10.6,
     "RH": 86
   },
@@ -3235,7 +3235,7 @@
     "Month": 1,
     "Day": 15,
     "Hour": 24,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 8.3,
     "RH": 77
   },
@@ -3244,7 +3244,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 1,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 5.6,
     "RH": 71
   },
@@ -3253,7 +3253,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 2,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 3.9,
     "RH": 64
   },
@@ -3262,7 +3262,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 3,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 2.8,
     "RH": 59
   },
@@ -3271,7 +3271,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 4,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 1.7,
     "RH": 57
   },
@@ -3280,7 +3280,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 5,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.8,
     "RH": 71
   },
@@ -3289,7 +3289,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 6,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 2.8,
     "RH": 71
   },
@@ -3298,7 +3298,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 7,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 1.7,
     "RH": 66
   },
@@ -3307,7 +3307,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 8,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 2.8,
     "RH": 66
   },
@@ -3316,7 +3316,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 9,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 3.3,
     "RH": 53
   },
@@ -3325,7 +3325,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 10,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 3.9,
     "RH": 43
   },
@@ -3334,7 +3334,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 11,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 2.2,
     "RH": 32
   },
@@ -3343,7 +3343,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 12,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 1.7,
     "RH": 28
   },
@@ -3352,7 +3352,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 13,
-    "Dry-bulb": 23.3,
+    "DryBT": 23.3,
     "Dew Point": 1.7,
     "RH": 24
   },
@@ -3361,7 +3361,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 14,
-    "Dry-bulb": 22.2,
+    "DryBT": 22.2,
     "Dew Point": 7.2,
     "RH": 38
   },
@@ -3370,7 +3370,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 15,
-    "Dry-bulb": 20.6,
+    "DryBT": 20.6,
     "Dew Point": 6.1,
     "RH": 39
   },
@@ -3379,7 +3379,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 16,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 6.7,
     "RH": 44
   },
@@ -3388,7 +3388,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 17,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 6.1,
     "RH": 48
   },
@@ -3397,7 +3397,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 18,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 9.4,
     "RH": 70
   },
@@ -3406,7 +3406,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 19,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.7,
     "RH": 84
   },
@@ -3415,7 +3415,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 20,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.1,
     "RH": 81
   },
@@ -3424,7 +3424,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 7.8,
     "RH": 65
   },
@@ -3433,7 +3433,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 22,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 6.7,
     "RH": 69
   },
@@ -3442,7 +3442,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 23,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 3.9,
     "RH": 53
   },
@@ -3451,7 +3451,7 @@
     "Month": 1,
     "Day": 16,
     "Hour": 24,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 3.3,
     "RH": 55
   },
@@ -3460,7 +3460,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 1,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 2.2,
     "RH": 53
   },
@@ -3469,7 +3469,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 2,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 2.2,
     "RH": 61
   },
@@ -3478,7 +3478,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 3,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 0,
     "RH": 48
   },
@@ -3487,7 +3487,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 4,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": -2.2,
     "RH": 38
   },
@@ -3496,7 +3496,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 5,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": -2.8,
     "RH": 33
   },
@@ -3505,7 +3505,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 6,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": -2.2,
     "RH": 38
   },
@@ -3514,7 +3514,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 7,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": -3.3,
     "RH": 33
   },
@@ -3523,7 +3523,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 8,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": -0.6,
     "RH": 40
   },
@@ -3532,7 +3532,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 9,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": -0.6,
     "RH": 28
   },
@@ -3541,7 +3541,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 10,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 1.7,
     "RH": 28
   },
@@ -3550,7 +3550,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 11,
-    "Dry-bulb": 23.9,
+    "DryBT": 23.9,
     "Dew Point": 1.7,
     "RH": 23
   },
@@ -3559,7 +3559,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 12,
-    "Dry-bulb": 25,
+    "DryBT": 25,
     "Dew Point": -1.1,
     "RH": 18
   },
@@ -3568,7 +3568,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 13,
-    "Dry-bulb": 26.1,
+    "DryBT": 26.1,
     "Dew Point": -1.7,
     "RH": 16
   },
@@ -3577,7 +3577,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 14,
-    "Dry-bulb": 27.2,
+    "DryBT": 27.2,
     "Dew Point": 0,
     "RH": 17
   },
@@ -3586,7 +3586,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 15,
-    "Dry-bulb": 26.7,
+    "DryBT": 26.7,
     "Dew Point": 2.2,
     "RH": 21
   },
@@ -3595,7 +3595,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 16,
-    "Dry-bulb": 23.9,
+    "DryBT": 23.9,
     "Dew Point": 5.6,
     "RH": 31
   },
@@ -3604,7 +3604,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 17,
-    "Dry-bulb": 22.2,
+    "DryBT": 22.2,
     "Dew Point": 1.1,
     "RH": 25
   },
@@ -3613,7 +3613,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 18,
-    "Dry-bulb": 21.7,
+    "DryBT": 21.7,
     "Dew Point": 1.7,
     "RH": 27
   },
@@ -3622,7 +3622,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 19,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": -3.9,
     "RH": 18
   },
@@ -3631,7 +3631,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 20,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": -3.9,
     "RH": 18
   },
@@ -3640,7 +3640,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 21,
-    "Dry-bulb": 20.6,
+    "DryBT": 20.6,
     "Dew Point": -3.9,
     "RH": 19
   },
@@ -3649,7 +3649,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 22,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": -2.8,
     "RH": 24
   },
@@ -3658,7 +3658,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 23,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 2.8,
     "RH": 44
   },
@@ -3667,7 +3667,7 @@
     "Month": 1,
     "Day": 17,
     "Hour": 24,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 1.7,
     "RH": 41
   },
@@ -3676,7 +3676,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 1,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 0.6,
     "RH": 38
   },
@@ -3685,7 +3685,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 2,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 2.2,
     "RH": 46
   },
@@ -3694,7 +3694,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 3,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 1.7,
     "RH": 45
   },
@@ -3703,7 +3703,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 4,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 2.2,
     "RH": 49
   },
@@ -3712,7 +3712,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 5,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 1.1,
     "RH": 44
   },
@@ -3721,7 +3721,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 6,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 0,
     "RH": 40
   },
@@ -3730,7 +3730,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 7,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 0,
     "RH": 40
   },
@@ -3739,7 +3739,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 8,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 0.6,
     "RH": 35
   },
@@ -3748,7 +3748,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 9,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 3.3,
     "RH": 38
   },
@@ -3757,7 +3757,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 10,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 5.6,
     "RH": 39
   },
@@ -3766,7 +3766,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 11,
-    "Dry-bulb": 22.8,
+    "DryBT": 22.8,
     "Dew Point": 3.9,
     "RH": 29
   },
@@ -3775,7 +3775,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 12,
-    "Dry-bulb": 25,
+    "DryBT": 25,
     "Dew Point": 6.1,
     "RH": 30
   },
@@ -3784,7 +3784,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 13,
-    "Dry-bulb": 26.1,
+    "DryBT": 26.1,
     "Dew Point": 5.6,
     "RH": 27
   },
@@ -3793,7 +3793,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 14,
-    "Dry-bulb": 24.4,
+    "DryBT": 24.4,
     "Dew Point": 7.2,
     "RH": 33
   },
@@ -3802,7 +3802,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 15,
-    "Dry-bulb": 24.4,
+    "DryBT": 24.4,
     "Dew Point": 5.6,
     "RH": 30
   },
@@ -3811,7 +3811,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 16,
-    "Dry-bulb": 21.7,
+    "DryBT": 21.7,
     "Dew Point": 10,
     "RH": 48
   },
@@ -3820,7 +3820,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 17,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 7.2,
     "RH": 45
   },
@@ -3829,7 +3829,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 18,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 8.3,
     "RH": 56
   },
@@ -3838,7 +3838,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 19,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 8.3,
     "RH": 56
   },
@@ -3847,7 +3847,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 20,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 7.2,
     "RH": 52
   },
@@ -3856,7 +3856,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 21,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 7.8,
     "RH": 54
   },
@@ -3865,7 +3865,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 22,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 6.1,
     "RH": 48
   },
@@ -3874,7 +3874,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 23,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 6.1,
     "RH": 48
   },
@@ -3883,7 +3883,7 @@
     "Month": 1,
     "Day": 18,
     "Hour": 24,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 6.1,
     "RH": 50
   },
@@ -3892,7 +3892,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 1,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 5.6,
     "RH": 52
   },
@@ -3901,7 +3901,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 2,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 5.6,
     "RH": 52
   },
@@ -3910,7 +3910,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 3,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 5,
     "RH": 51
   },
@@ -3919,7 +3919,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 4,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 6.1,
     "RH": 62
   },
@@ -3928,7 +3928,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 5,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 5,
     "RH": 57
   },
@@ -3937,7 +3937,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 6,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 5,
     "RH": 57
   },
@@ -3946,7 +3946,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 7,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 4.4,
     "RH": 55
   },
@@ -3955,7 +3955,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 8,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 4.4,
     "RH": 50
   },
@@ -3964,7 +3964,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 9,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 5,
     "RH": 48
   },
@@ -3973,7 +3973,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 10,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 7.2,
     "RH": 54
   },
@@ -3982,7 +3982,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 11,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 7.8,
     "RH": 50
   },
@@ -3991,7 +3991,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 12,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 7.8,
     "RH": 42
   },
@@ -4000,7 +4000,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 13,
-    "Dry-bulb": 22.2,
+    "DryBT": 22.2,
     "Dew Point": 7.2,
     "RH": 38
   },
@@ -4009,7 +4009,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 14,
-    "Dry-bulb": 23.3,
+    "DryBT": 23.3,
     "Dew Point": 6.7,
     "RH": 34
   },
@@ -4018,7 +4018,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 15,
-    "Dry-bulb": 21.7,
+    "DryBT": 21.7,
     "Dew Point": 13.9,
     "RH": 61
   },
@@ -4027,7 +4027,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 16,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 13.3,
     "RH": 70
   },
@@ -4036,7 +4036,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 17,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 11.1,
     "RH": 68
   },
@@ -4045,7 +4045,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 18,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 11.1,
     "RH": 70
   },
@@ -4054,7 +4054,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 19,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 12.2,
     "RH": 75
   },
@@ -4063,7 +4063,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 20,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 12.2,
     "RH": 78
   },
@@ -4072,7 +4072,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 21,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 12.8,
     "RH": 81
   },
@@ -4081,7 +4081,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 22,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 12.8,
     "RH": 81
   },
@@ -4090,7 +4090,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 23,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 11.1,
     "RH": 75
   },
@@ -4099,7 +4099,7 @@
     "Month": 1,
     "Day": 19,
     "Hour": 24,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.1,
     "RH": 81
   },
@@ -4108,7 +4108,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 1,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.7,
     "RH": 84
   },
@@ -4117,7 +4117,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 2,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.7,
     "RH": 87
   },
@@ -4126,7 +4126,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 3,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.7,
     "RH": 87
   },
@@ -4135,7 +4135,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 4,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.1,
     "RH": 83
   },
@@ -4144,7 +4144,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 5,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 8.9,
     "RH": 72
   },
@@ -4153,7 +4153,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 6,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 9.4,
     "RH": 75
   },
@@ -4162,7 +4162,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 7,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 8.9,
     "RH": 70
   },
@@ -4171,7 +4171,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 8,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 8.9,
     "RH": 70
   },
@@ -4180,7 +4180,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 9,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 9.4,
     "RH": 67
   },
@@ -4189,7 +4189,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 10,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 10,
     "RH": 67
   },
@@ -4198,7 +4198,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 11,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 13.9,
     "RH": 81
   },
@@ -4207,7 +4207,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 12,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 10,
     "RH": 59
   },
@@ -4216,7 +4216,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 13,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 9.4,
     "RH": 54
   },
@@ -4225,7 +4225,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 14,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 7.8,
     "RH": 47
   },
@@ -4234,7 +4234,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 15,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 12.8,
     "RH": 70
   },
@@ -4243,7 +4243,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 16,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 11.1,
     "RH": 70
   },
@@ -4252,7 +4252,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 17,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 12.8,
     "RH": 81
   },
@@ -4261,7 +4261,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 18,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 11.7,
     "RH": 78
   },
@@ -4270,7 +4270,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 19,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 12.8,
     "RH": 84
   },
@@ -4279,7 +4279,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 20,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.3,
     "RH": 87
   },
@@ -4288,7 +4288,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 21,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 12.2,
     "RH": 84
   },
@@ -4297,7 +4297,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 22,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.2,
     "RH": 87
   },
@@ -4306,7 +4306,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 23,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -4315,7 +4315,7 @@
     "Month": 1,
     "Day": 20,
     "Hour": 24,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -4324,7 +4324,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 1,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -4333,7 +4333,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 2,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.9,
     "RH": 96
   },
@@ -4342,7 +4342,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 3,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -4351,7 +4351,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 4,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -4360,7 +4360,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 5,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -4369,7 +4369,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 6,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -4378,7 +4378,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 7,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -4387,7 +4387,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 8,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -4396,7 +4396,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 9,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -4405,7 +4405,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 10,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.3,
     "RH": 90
   },
@@ -4414,7 +4414,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 11,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.3,
     "RH": 87
   },
@@ -4423,7 +4423,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 12,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 13.9,
     "RH": 87
   },
@@ -4432,7 +4432,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 13,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 14.4,
     "RH": 84
   },
@@ -4441,7 +4441,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 14,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.9,
     "RH": 78
   },
@@ -4450,7 +4450,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 15,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 13.3,
     "RH": 78
   },
@@ -4459,7 +4459,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 16,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 13.3,
     "RH": 81
   },
@@ -4468,7 +4468,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 17,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 12.8,
     "RH": 84
   },
@@ -4477,7 +4477,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 18,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.2,
     "RH": 87
   },
@@ -4486,7 +4486,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 19,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -4495,7 +4495,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 20,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -4504,7 +4504,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -4513,7 +4513,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 22,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -4522,7 +4522,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 23,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -4531,7 +4531,7 @@
     "Month": 1,
     "Day": 21,
     "Hour": 24,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.2,
     "RH": 90
   },
@@ -4540,7 +4540,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 1,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 11.7,
     "RH": 87
   },
@@ -4549,7 +4549,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 2,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 11.7,
     "RH": 90
   },
@@ -4558,7 +4558,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 3,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -4567,7 +4567,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 4,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -4576,7 +4576,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 5,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -4585,7 +4585,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 6,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -4594,7 +4594,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 7,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -4603,7 +4603,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 8,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.1,
     "RH": 93
   },
@@ -4612,7 +4612,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 9,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.8,
     "RH": 96
   },
@@ -4621,7 +4621,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 10,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.3,
     "RH": 90
   },
@@ -4630,7 +4630,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 11,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 13.9,
     "RH": 84
   },
@@ -4639,7 +4639,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 12,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 13.9,
     "RH": 81
   },
@@ -4648,7 +4648,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 13,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.3,
     "RH": 75
   },
@@ -4657,7 +4657,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 14,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.3,
     "RH": 75
   },
@@ -4666,7 +4666,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 15,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 12.8,
     "RH": 73
   },
@@ -4675,7 +4675,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 16,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 11.1,
     "RH": 68
   },
@@ -4684,7 +4684,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 17,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 13.3,
     "RH": 81
   },
@@ -4693,7 +4693,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 18,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.3,
     "RH": 87
   },
@@ -4702,7 +4702,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 19,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.3,
     "RH": 90
   },
@@ -4711,7 +4711,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 20,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -4720,7 +4720,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -4729,7 +4729,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 22,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -4738,7 +4738,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 23,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -4747,7 +4747,7 @@
     "Month": 1,
     "Day": 22,
     "Hour": 24,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -4756,7 +4756,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 1,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -4765,7 +4765,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 2,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 11.1,
     "RH": 90
   },
@@ -4774,7 +4774,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 3,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 11.1,
     "RH": 90
   },
@@ -4783,7 +4783,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 4,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -4792,7 +4792,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 5,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -4801,7 +4801,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 6,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -4810,7 +4810,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 7,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 9.4,
     "RH": 90
   },
@@ -4819,7 +4819,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 8,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -4828,7 +4828,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 9,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10.6,
     "RH": 86
   },
@@ -4837,7 +4837,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 10,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 11.1,
     "RH": 78
   },
@@ -4846,7 +4846,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 11,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 11.1,
     "RH": 70
   },
@@ -4855,7 +4855,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 12,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.3,
     "RH": 75
   },
@@ -4864,7 +4864,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 13,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.9,
     "RH": 78
   },
@@ -4873,7 +4873,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 14,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 12.8,
     "RH": 73
   },
@@ -4882,7 +4882,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 15,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.3,
     "RH": 75
   },
@@ -4891,7 +4891,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 16,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.9,
     "RH": 78
   },
@@ -4900,7 +4900,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 17,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 13.9,
     "RH": 84
   },
@@ -4909,7 +4909,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 18,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.3,
     "RH": 90
   },
@@ -4918,7 +4918,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 19,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -4927,7 +4927,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 20,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.3,
     "RH": 90
   },
@@ -4936,7 +4936,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 21,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -4945,7 +4945,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 22,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.8,
     "RH": 93
   },
@@ -4954,7 +4954,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 23,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.2,
     "RH": 93
   },
@@ -4963,7 +4963,7 @@
     "Month": 1,
     "Day": 23,
     "Hour": 24,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 11.7,
     "RH": 90
   },
@@ -4972,7 +4972,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 1,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10,
     "RH": 83
   },
@@ -4981,7 +4981,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 2,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 8.3,
     "RH": 80
   },
@@ -4990,7 +4990,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 3,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 7.8,
     "RH": 80
   },
@@ -4999,7 +4999,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 4,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 7.2,
     "RH": 77
   },
@@ -5008,7 +5008,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 5,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 6.1,
     "RH": 77
   },
@@ -5017,7 +5017,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 6,
-    "Dry-bulb": 10,
+    "DryBT": 10,
     "Dew Point": 6.1,
     "RH": 77
   },
@@ -5026,7 +5026,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 7,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 6.7,
     "RH": 83
   },
@@ -5035,7 +5035,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 8,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 7.8,
     "RH": 77
   },
@@ -5044,7 +5044,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 9,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 7.8,
     "RH": 60
   },
@@ -5053,7 +5053,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 10,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 7.8,
     "RH": 52
   },
@@ -5062,7 +5062,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 11,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 7.8,
     "RH": 45
   },
@@ -5071,7 +5071,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 12,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 6.7,
     "RH": 39
   },
@@ -5080,7 +5080,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 13,
-    "Dry-bulb": 22.2,
+    "DryBT": 22.2,
     "Dew Point": 6.1,
     "RH": 35
   },
@@ -5089,7 +5089,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 14,
-    "Dry-bulb": 22.8,
+    "DryBT": 22.8,
     "Dew Point": 5.6,
     "RH": 33
   },
@@ -5098,7 +5098,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 15,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 8.9,
     "RH": 46
   },
@@ -5107,7 +5107,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 16,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 10.6,
     "RH": 55
   },
@@ -5116,7 +5116,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 17,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 7.8,
     "RH": 50
   },
@@ -5125,7 +5125,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 18,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 6.1,
     "RH": 50
   },
@@ -5134,7 +5134,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 19,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 8.3,
     "RH": 56
   },
@@ -5143,7 +5143,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 20,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 6.1,
     "RH": 48
   },
@@ -5152,7 +5152,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 21,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 4.4,
     "RH": 45
   },
@@ -5161,7 +5161,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 22,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 5.6,
     "RH": 52
   },
@@ -5170,7 +5170,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 23,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 5,
     "RH": 50
   },
@@ -5179,7 +5179,7 @@
     "Month": 1,
     "Day": 24,
     "Hour": 24,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 4.4,
     "RH": 48
   },
@@ -5188,7 +5188,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 1,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 3.9,
     "RH": 49
   },
@@ -5197,7 +5197,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 2,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 3.3,
     "RH": 48
   },
@@ -5206,7 +5206,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 3,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 3.3,
     "RH": 48
   },
@@ -5215,7 +5215,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 4,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 3.9,
     "RH": 55
   },
@@ -5224,7 +5224,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 5,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 2.8,
     "RH": 51
   },
@@ -5233,7 +5233,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 6,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 2.8,
     "RH": 47
   },
@@ -5242,7 +5242,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 7,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 2.8,
     "RH": 47
   },
@@ -5251,7 +5251,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 8,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 3.3,
     "RH": 49
   },
@@ -5260,7 +5260,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 9,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 4.4,
     "RH": 51
   },
@@ -5269,7 +5269,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 10,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 4.4,
     "RH": 50
   },
@@ -5278,7 +5278,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 11,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 5,
     "RH": 45
   },
@@ -5287,7 +5287,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 12,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 4.4,
     "RH": 39
   },
@@ -5296,7 +5296,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 13,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 5.6,
     "RH": 39
   },
@@ -5305,7 +5305,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 14,
-    "Dry-bulb": 21.1,
+    "DryBT": 21.1,
     "Dew Point": 5,
     "RH": 35
   },
@@ -5314,7 +5314,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 15,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 6.1,
     "RH": 42
   },
@@ -5323,7 +5323,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 16,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 6.7,
     "RH": 47
   },
@@ -5332,7 +5332,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 17,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 7.2,
     "RH": 50
   },
@@ -5341,7 +5341,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 18,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 8.3,
     "RH": 58
   },
@@ -5350,7 +5350,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 19,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 8.9,
     "RH": 58
   },
@@ -5359,7 +5359,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 20,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 7.2,
     "RH": 54
   },
@@ -5368,7 +5368,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 21,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 8.3,
     "RH": 58
   },
@@ -5377,7 +5377,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 22,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 11.7,
     "RH": 73
   },
@@ -5386,7 +5386,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 23,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 9.4,
     "RH": 65
   },
@@ -5395,7 +5395,7 @@
     "Month": 1,
     "Day": 25,
     "Hour": 24,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 9.4,
     "RH": 67
   },
@@ -5404,7 +5404,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 1,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.3,
     "RH": 65
   },
@@ -5413,7 +5413,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 2,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.3,
     "RH": 65
   },
@@ -5422,7 +5422,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 3,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.3,
     "RH": 65
   },
@@ -5431,7 +5431,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 4,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 8.9,
     "RH": 70
   },
@@ -5440,7 +5440,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 5,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 8.3,
     "RH": 72
   },
@@ -5449,7 +5449,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 6,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 8.3,
     "RH": 75
   },
@@ -5458,7 +5458,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 7,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 8.3,
     "RH": 77
   },
@@ -5467,7 +5467,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 8,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 8.3,
     "RH": 72
   },
@@ -5476,7 +5476,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 9,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 8.3,
     "RH": 65
   },
@@ -5485,7 +5485,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 10,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 9.4,
     "RH": 63
   },
@@ -5494,7 +5494,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 11,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 10,
     "RH": 59
   },
@@ -5503,7 +5503,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 12,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 9.4,
     "RH": 54
   },
@@ -5512,7 +5512,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 13,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 10.6,
     "RH": 57
   },
@@ -5521,7 +5521,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 14,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 11.1,
     "RH": 61
   },
@@ -5530,7 +5530,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 15,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 10.6,
     "RH": 59
   },
@@ -5539,7 +5539,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 16,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 12.8,
     "RH": 75
   },
@@ -5548,7 +5548,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 17,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 12.8,
     "RH": 78
   },
@@ -5557,7 +5557,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 18,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 12.8,
     "RH": 84
   },
@@ -5566,7 +5566,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 19,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 12.8,
     "RH": 87
   },
@@ -5575,7 +5575,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 20,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -5584,7 +5584,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -5593,7 +5593,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 22,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 11.1,
     "RH": 81
   },
@@ -5602,7 +5602,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 23,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 9.4,
     "RH": 72
   },
@@ -5611,7 +5611,7 @@
     "Month": 1,
     "Day": 26,
     "Hour": 24,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 9.4,
     "RH": 80
   },
@@ -5620,7 +5620,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 1,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 9.4,
     "RH": 83
   },
@@ -5629,7 +5629,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 2,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 9.4,
     "RH": 86
   },
@@ -5638,7 +5638,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 3,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -5647,7 +5647,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 4,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -5656,7 +5656,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 5,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 8.3,
     "RH": 83
   },
@@ -5665,7 +5665,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 6,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 7.8,
     "RH": 80
   },
@@ -5674,7 +5674,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 7,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 7.8,
     "RH": 80
   },
@@ -5683,7 +5683,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 8,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 7.8,
     "RH": 77
   },
@@ -5692,7 +5692,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 9,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 8.9,
     "RH": 75
   },
@@ -5701,7 +5701,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 10,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 9.4,
     "RH": 67
   },
@@ -5710,7 +5710,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 11,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 10,
     "RH": 63
   },
@@ -5719,7 +5719,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 12,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 9.4,
     "RH": 56
   },
@@ -5728,7 +5728,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 13,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 8.9,
     "RH": 54
   },
@@ -5737,7 +5737,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 14,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 12.2,
     "RH": 68
   },
@@ -5746,7 +5746,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 15,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 12.8,
     "RH": 68
   },
@@ -5755,7 +5755,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 16,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 12.2,
     "RH": 68
   },
@@ -5764,7 +5764,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 17,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 12.8,
     "RH": 81
   },
@@ -5773,7 +5773,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 18,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 13.9,
     "RH": 87
   },
@@ -5782,7 +5782,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 19,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.9,
     "RH": 90
   },
@@ -5791,7 +5791,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 20,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.3,
     "RH": 87
   },
@@ -5800,7 +5800,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 21,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.9,
     "RH": 90
   },
@@ -5809,7 +5809,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 22,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 12.8,
     "RH": 87
   },
@@ -5818,7 +5818,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 23,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -5827,7 +5827,7 @@
     "Month": 1,
     "Day": 27,
     "Hour": 24,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -5836,7 +5836,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 1,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -5845,7 +5845,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 2,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 14.4,
     "RH": 97
   },
@@ -5854,7 +5854,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 3,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 14.4,
     "RH": 97
   },
@@ -5863,7 +5863,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 4,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -5872,7 +5872,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 5,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.9,
     "RH": 96
   },
@@ -5881,7 +5881,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 6,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.9,
     "RH": 96
   },
@@ -5890,7 +5890,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 7,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -5899,7 +5899,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 8,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.9,
     "RH": 96
   },
@@ -5908,7 +5908,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 9,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -5917,7 +5917,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 10,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.9,
     "RH": 90
   },
@@ -5926,7 +5926,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 11,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 12.2,
     "RH": 73
   },
@@ -5935,7 +5935,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 12,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 14.4,
     "RH": 84
   },
@@ -5944,7 +5944,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 13,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 14.4,
     "RH": 90
   },
@@ -5953,7 +5953,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 14,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 13.9,
     "RH": 87
   },
@@ -5962,7 +5962,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 15,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.9,
     "RH": 90
   },
@@ -5971,7 +5971,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 16,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 14.4,
     "RH": 93
   },
@@ -5980,7 +5980,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 17,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -5989,7 +5989,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 18,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -5998,7 +5998,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 19,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -6007,7 +6007,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 20,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.2,
     "RH": 87
   },
@@ -6016,7 +6016,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.2,
     "RH": 87
   },
@@ -6025,7 +6025,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 22,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 12.2,
     "RH": 90
   },
@@ -6034,7 +6034,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 23,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.2,
     "RH": 96
   },
@@ -6043,7 +6043,7 @@
     "Month": 1,
     "Day": 28,
     "Hour": 24,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.2,
     "RH": 96
   },
@@ -6052,7 +6052,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 1,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.7,
     "RH": 96
   },
@@ -6061,7 +6061,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 2,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.7,
     "RH": 96
   },
@@ -6070,7 +6070,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 3,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 11.7,
     "RH": 96
   },
@@ -6079,7 +6079,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 4,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.1,
     "RH": 96
   },
@@ -6088,7 +6088,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 5,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -6097,7 +6097,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 6,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -6106,7 +6106,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 7,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10.6,
     "RH": 96
   },
@@ -6115,7 +6115,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 8,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 10,
     "RH": 93
   },
@@ -6124,7 +6124,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 9,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 10.6,
     "RH": 93
   },
@@ -6133,7 +6133,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 10,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 12.8,
     "RH": 90
   },
@@ -6142,7 +6142,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 11,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.3,
     "RH": 87
   },
@@ -6151,7 +6151,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 12,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 14.4,
     "RH": 81
   },
@@ -6160,7 +6160,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 13,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.3,
     "RH": 75
   },
@@ -6169,7 +6169,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 14,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 14.4,
     "RH": 81
   },
@@ -6178,7 +6178,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 15,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 14.4,
     "RH": 81
   },
@@ -6187,7 +6187,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 16,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 14.4,
     "RH": 84
   },
@@ -6196,7 +6196,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 17,
-    "Dry-bulb": 16.1,
+    "DryBT": 16.1,
     "Dew Point": 13.9,
     "RH": 87
   },
@@ -6205,7 +6205,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 18,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -6214,7 +6214,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 19,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -6223,7 +6223,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 20,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -6232,7 +6232,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 21,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -6241,7 +6241,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 22,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -6250,7 +6250,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 23,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.2,
     "RH": 96
   },
@@ -6259,7 +6259,7 @@
     "Month": 1,
     "Day": 29,
     "Hour": 24,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 12.2,
     "RH": 100
   },
@@ -6268,7 +6268,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 1,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.7,
     "RH": 100
   },
@@ -6277,7 +6277,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 2,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.1,
     "RH": 96
   },
@@ -6286,7 +6286,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 3,
-    "Dry-bulb": 11.1,
+    "DryBT": 11.1,
     "Dew Point": 11.1,
     "RH": 100
   },
@@ -6295,7 +6295,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 4,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10.6,
     "RH": 100
   },
@@ -6304,7 +6304,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 5,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 8.9,
     "RH": 96
   },
@@ -6313,7 +6313,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 6,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 8.9,
     "RH": 100
   },
@@ -6322,7 +6322,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 7,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 8.9,
     "RH": 100
   },
@@ -6331,7 +6331,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 8,
-    "Dry-bulb": 8.9,
+    "DryBT": 8.9,
     "Dew Point": 8.9,
     "RH": 100
   },
@@ -6340,7 +6340,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 9,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 10.6,
     "RH": 86
   },
@@ -6349,7 +6349,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 10,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.3,
     "RH": 90
   },
@@ -6358,7 +6358,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 11,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.9,
     "RH": 78
   },
@@ -6367,7 +6367,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 12,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 13.3,
     "RH": 70
   },
@@ -6376,7 +6376,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 13,
-    "Dry-bulb": 19.4,
+    "DryBT": 19.4,
     "Dew Point": 13.9,
     "RH": 70
   },
@@ -6385,7 +6385,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 14,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 14.4,
     "RH": 78
   },
@@ -6394,7 +6394,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 15,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 14.4,
     "RH": 78
   },
@@ -6403,7 +6403,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 16,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 12.8,
     "RH": 70
   },
@@ -6412,7 +6412,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 17,
-    "Dry-bulb": 17.8,
+    "DryBT": 17.8,
     "Dew Point": 13.9,
     "RH": 78
   },
@@ -6421,7 +6421,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 18,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.3,
     "RH": 87
   },
@@ -6430,7 +6430,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 19,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -6439,7 +6439,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 20,
-    "Dry-bulb": 15,
+    "DryBT": 15,
     "Dew Point": 13.9,
     "RH": 93
   },
@@ -6448,7 +6448,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 21,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.9,
     "RH": 96
   },
@@ -6457,7 +6457,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 22,
-    "Dry-bulb": 13.9,
+    "DryBT": 13.9,
     "Dew Point": 13.3,
     "RH": 96
   },
@@ -6466,7 +6466,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 23,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.2,
     "RH": 96
   },
@@ -6475,7 +6475,7 @@
     "Month": 1,
     "Day": 30,
     "Hour": 24,
-    "Dry-bulb": 12.8,
+    "DryBT": 12.8,
     "Dew Point": 12.2,
     "RH": 96
   },
@@ -6484,7 +6484,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 1,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.1,
     "RH": 96
   },
@@ -6493,7 +6493,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 2,
-    "Dry-bulb": 10.6,
+    "DryBT": 10.6,
     "Dew Point": 10,
     "RH": 96
   },
@@ -6502,7 +6502,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 3,
-    "Dry-bulb": 9.4,
+    "DryBT": 9.4,
     "Dew Point": 6.7,
     "RH": 83
   },
@@ -6511,7 +6511,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 4,
-    "Dry-bulb": 8.3,
+    "DryBT": 8.3,
     "Dew Point": 6.7,
     "RH": 89
   },
@@ -6520,7 +6520,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 5,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 5.6,
     "RH": 86
   },
@@ -6529,7 +6529,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 6,
-    "Dry-bulb": 7.8,
+    "DryBT": 7.8,
     "Dew Point": 5,
     "RH": 83
   },
@@ -6538,7 +6538,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 7,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 3.9,
     "RH": 59
   },
@@ -6547,7 +6547,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 8,
-    "Dry-bulb": 12.2,
+    "DryBT": 12.2,
     "Dew Point": 3.9,
     "RH": 57
   },
@@ -6556,7 +6556,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 9,
-    "Dry-bulb": 11.7,
+    "DryBT": 11.7,
     "Dew Point": 11.7,
     "RH": 100
   },
@@ -6565,7 +6565,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 10,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.8,
     "RH": 96
   },
@@ -6574,7 +6574,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 11,
-    "Dry-bulb": 16.7,
+    "DryBT": 16.7,
     "Dew Point": 11.1,
     "RH": 70
   },
@@ -6583,7 +6583,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 12,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 10.6,
     "RH": 61
   },
@@ -6592,7 +6592,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 13,
-    "Dry-bulb": 20,
+    "DryBT": 20,
     "Dew Point": 12.8,
     "RH": 63
   },
@@ -6601,7 +6601,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 14,
-    "Dry-bulb": 18.9,
+    "DryBT": 18.9,
     "Dew Point": 14.4,
     "RH": 76
   },
@@ -6610,7 +6610,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 15,
-    "Dry-bulb": 18.3,
+    "DryBT": 18.3,
     "Dew Point": 14.4,
     "RH": 78
   },
@@ -6619,7 +6619,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 16,
-    "Dry-bulb": 17.2,
+    "DryBT": 17.2,
     "Dew Point": 14.4,
     "RH": 84
   },
@@ -6628,7 +6628,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 17,
-    "Dry-bulb": 15.6,
+    "DryBT": 15.6,
     "Dew Point": 13.9,
     "RH": 90
   },
@@ -6637,7 +6637,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 18,
-    "Dry-bulb": 14.4,
+    "DryBT": 14.4,
     "Dew Point": 13.3,
     "RH": 93
   },
@@ -6646,7 +6646,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 19,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.8,
     "RH": 96
   },
@@ -6655,7 +6655,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 20,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.8,
     "RH": 96
   },
@@ -6664,7 +6664,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 21,
-    "Dry-bulb": 13.3,
+    "DryBT": 13.3,
     "Dew Point": 12.8,
     "RH": 96
   },
@@ -6673,7 +6673,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 22,
-    "Dry-bulb": 13,
+    "DryBT": 13,
     "Dew Point": 12.4,
     "RH": 96
   },
@@ -6682,7 +6682,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 23,
-    "Dry-bulb": 12.7,
+    "DryBT": 12.7,
     "Dew Point": 12,
     "RH": 96
   },
@@ -6691,7 +6691,7 @@
     "Month": 1,
     "Day": 31,
     "Hour": 24,
-    "Dry-bulb": 12.4,
+    "DryBT": 12.4,
     "Dew Point": 11.6,
     "RH": 96
   }
