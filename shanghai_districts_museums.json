@@ -1,0 +1,704 @@
+[
+	{
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海市历史博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海世博会博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "中华艺术宫",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海豫园管理处",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海三山会馆管理处",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海隧道科技馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海周虎臣曹素功笔墨博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海电信博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "童涵春堂中药博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "中国共产党第一次全国代表大会会址纪念馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海孙中山故居纪念馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "中国社会主义青年团中央机关旧址纪念馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "江南造船博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海韬奋纪念馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "中国共产党代表团驻沪办事处纪念馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海琉璃艺术博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "大韩民国临时政府旧址管理处",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "丰子恺旧居陈列室",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海民政博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海老相机制造博物馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		"adcode": 310101,
+		"district": "黄浦区",
+		"museum": "上海市外滩历史纪念馆",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "中共二大会会址纪念馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "中共上海地下组织斗争史陈列馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "中国劳动组合书记部旧址陈列馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "上海蔡元培故居陈列馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "上海毛泽东旧居陈列馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "闸北革命史料陈列馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "上海铁路博物馆",
+		"bachelorsOrHigher": 21.2
+	},
+    {
+        "adcode": 310106,
+		"district": "静安区",
+		"museum": "上海眼镜博物馆",
+		"bachelorsOrHigher": 21.2
+	},
+	{
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海龙华烈士纪念馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海宋庆龄故居纪念馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海市黄道婆纪念馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "徐光启纪念馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海公安博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海工艺美术博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海昆虫博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海师范大学博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海音乐学院东方乐器博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海交通大学校史博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海土山湾博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "上海交通大学董浩云航运博物馆",
+		"bachelorsOrHigher": 51.9
+	},
+    {
+        "adcode": 310104,
+		"district": "徐汇区",
+		"museum": "钱学森图书馆",
+		"bachelorsOrHigher": 51.9
+	},
+	{
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "刘海粟美术馆",
+		"bachelorsOrHigher": 18.7
+	},
+    {
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "上海儿童博物馆",
+		"bachelorsOrHigher": 18.7
+	},
+    {
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "宋庆龄生平事迹陈列馆",
+        "bachelorsOrHigher": 18.7
+	},
+    {
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "上海市长宁区革命文物陈列馆",
+		"bachelorsOrHigher": 18.7
+	},
+    {
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "东华大学上海纺织服饰博物馆",
+		"bachelorsOrHigher": 18.7
+	},
+    {
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "上海消防博物馆",
+		"bachelorsOrHigher": 18.7
+	},
+    {
+        "adcode": 310105,
+		"district": "长宁区",
+		"museum": "上海凝聚力博物馆",
+		"bachelorsOrHigher": 18.7
+	},
+	{
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "上海中国烟草博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "上海杨浦法院博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "上海院士风采馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "复旦大学博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "上海理工大学上海印刷博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "上海海洋大学博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "上海体育学院中国武术博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310110,
+		"district": "杨浦区",
+		"museum": "国歌展示馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海科技馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海自然博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海黄炎培故居",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海张闻天故居",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海吴昌硕纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海市银行博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海中医药大学上海中医药博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "历道证券博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海东方地质科普馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海蔡伯昌老彩票博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海市浦东新区南汇博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海美特斯邦威服饰博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海动漫博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海中国航海博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "上海震旦博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "高桥历史文化陈列馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310115,
+		"district": "浦东新区",
+		"museum": "新场历史文化陈列馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "上海鲁迅纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "中国左翼作家联盟成立大会会址纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "朱屺瞻艺术馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "李白烈士故居",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "沈尹默故居",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "中共四大纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "上海邮政博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310109,
+		"district": "虹口区",
+		"museum": "上海犹太难民纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310107,
+		"district": "普陀区",
+		"museum": "上海元代水闸遗址博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310107,
+		"district": "普陀区",
+		"museum": "顾正红纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310107,
+		"district": "普陀区",
+		"museum": "上海纺织博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310112,
+		"district": "闵行区",
+		"museum": "上海市闵行区博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310112,
+		"district": "闵行区",
+		"museum": "张充仁纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310112,
+		"district": "闵行区",
+		"museum": "上海民族乐器博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "上海淞沪抗战纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "上海陈化成纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "上海市陶行知纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "中国人民解放军海军上海博览馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "南京路上好八连事迹陈列馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "上海玻璃博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310113,
+		"district": "宝山区",
+		"museum": "上海解放纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310114,
+		"district": "嘉定区",
+		"museum": "嘉定博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310114,
+		"district": "嘉定区",
+		"museum": "陆俨少艺术院",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310114,
+		"district": "嘉定区",
+		"museum": "上海汽车博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310114,
+		"district": "嘉定区",
+		"museum": "顾维钧生平陈列室",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310114,
+		"district": "嘉定区",
+		"museum": "四海壶具博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310114,
+		"district": "嘉定区",
+		"museum": "嘉定竹刻博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310118,
+		"district": "青浦区",
+		"museum": "上海市青浦区博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310118,
+		"district": "青浦区",
+		"museum": "上海崧泽遗址博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310118,
+		"district": "青浦区",
+		"museum": "陈云故居暨青浦革命历史纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310118,
+		"district": "青浦区",
+		"museum": "上海福寿园人文纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310118,
+		"district": "青浦区",
+		"museum": "任屯血防陈列馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310118,
+		"district": "青浦区",
+		"museum": "上海翰林匾额博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310117,
+		"district": "松江区",
+		"museum": "上海市松江区博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310117,
+		"district": "松江区",
+		"museum": "上海中国留学生博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310117,
+		"district": "松江区",
+		"museum": "上海天文博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310120,
+		"district": "奉贤区",
+		"museum": "上海市奉贤区博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310120,
+		"district": "奉贤区",
+		"museum": "上海农垦博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310116,
+		"district": "金山区",
+		"museum": "上海市金山区博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310116,
+		"district": "金山区",
+		"museum": "上海南社纪念馆",
+		"bachelorsOrHigher": 16.8
+	},
+    {
+        "adcode": 310116,
+		"district": "金山区",
+		"museum": "上海电线电缆博物馆",
+		"bachelorsOrHigher": 16.8
+	},
+	{
+        "adcode": 310151,
+		"district": "崇明区",
+		"museum": "崇明县博物馆",
+		"bachelorsOrHigher": 16.8
+	}
+]
