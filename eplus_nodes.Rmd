@@ -6,6 +6,27 @@ date: "2022-12-13"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(igraph)
+library(networkD3)
+library(dplyr)
+library(htmlwidgets)
+nodedata <- read.csv('/Users/xchen/Library/CloudStorage/OneDrive-RMI/Desktop/_storefront/oneobj/node_water.csv')
+df <- data.frame(nodedata, stringAsFactors = FALSE)
+nodes_csv <- data.frame(name = unique(unlist(nodedata)), stringsAsFactors = FALSE)
+nodes_csv$id <- 0:(nrow(nodes_csv) - 1)
+
+edges_csv <- df %>%
+  left_join(nodes_csv, by = c("source" = "name")) %>%
+  select(-source) %>%
+  rename(source = id) %>%
+  left_join(nodes_csv, by = c("target" = "name")) %>%
+  select(-target) %>%
+  rename(target = id)
+edges_csv$width <- 1
+nodes_csv$group <- ifelse(grepl("NODE", nodes_csv$name),"tigers", "lions")
+ColourScale <- 'd3.scaleOrdinal()
+            .domain(["lions", "tigers"])
+           .range(["#FF6900", "#694489"]);'
 ```
 
 ## R Markdown
@@ -14,16 +35,43 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
+```{r load-node-data, eval=FALSE,  purl=FALSE}
+nodedata <- read.csv('/Users/xchen/Library/CloudStorage/OneDrive-RMI/Desktop/_storefront/oneobj/node_water.csv')
+df <- data.frame(mydata, stringAsFactors = FALSE)
+nodes_csv <- data.frame(name = unique(unlist(mydata)), stringsAsFactors = FALSE)
+nodes_csv$id <- 0:(nrow(nodes_csv) - 1)
+
+edges_csv <- df %>%
+  left_join(nodes_csv, by = c("source" = "name")) %>%
+  select(-source) %>%
+  rename(source = id) %>%
+  left_join(nodes_csv, by = c("target" = "name")) %>%
+  select(-target) %>%
+  rename(target = id)
+edges_csv$width <- 1
+nodes_csv$group <- ifelse(grepl("NODE", nodes_csv$name),"tigers", "lions")
+ColourScale <- 'd3.scaleOrdinal()
+            .domain(["lions", "tigers"])
+           .range(["#FF6900", "#694489"]);'
+
 ```
 
 ## Including Plots
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r plot-node, echo=FALSE, out.width='100%'}
+forceNetwork(Links = edges_csv, Nodes = nodes_csv,
+             Source = "source",
+             Target = "target",
+             NodeID ="name",
+             Group = "group",
+             Value = "width",
+             opacity = 0.9,
+             zoom = TRUE,
+             opacityNoHover = 1,
+             arrows = TRUE,
+             colourScale = JS(ColourScale))
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
