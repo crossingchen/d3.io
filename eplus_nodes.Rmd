@@ -5,7 +5,7 @@ date: "2022-12-13"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.width=12, fig.height=8)
 library(igraph)
 library(networkD3)
 library(dplyr)
@@ -36,23 +36,7 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r load-node-data, eval=FALSE,  purl=FALSE}
-nodedata <- read.csv('/Users/xchen/Library/CloudStorage/OneDrive-RMI/Desktop/_storefront/oneobj/node_water.csv')
-df <- data.frame(mydata, stringAsFactors = FALSE)
-nodes_csv <- data.frame(name = unique(unlist(mydata)), stringsAsFactors = FALSE)
-nodes_csv$id <- 0:(nrow(nodes_csv) - 1)
 
-edges_csv <- df %>%
-  left_join(nodes_csv, by = c("source" = "name")) %>%
-  select(-source) %>%
-  rename(source = id) %>%
-  left_join(nodes_csv, by = c("target" = "name")) %>%
-  select(-target) %>%
-  rename(target = id)
-edges_csv$width <- 1
-nodes_csv$group <- ifelse(grepl("NODE", nodes_csv$name),"tigers", "lions")
-ColourScale <- 'd3.scaleOrdinal()
-            .domain(["lions", "tigers"])
-           .range(["#FF6900", "#694489"]);'
 
 ```
 
