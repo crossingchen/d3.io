@@ -1317,11 +1317,11 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
     for (let i = 0; i < parents.length; i++) {
       source_nodes.push(unique_nodes.indexOf(parents[i]))
       target_nodes.push(unique_nodes.indexOf(kids[i]))
+      node_val.push(1)
+      node_color.push("\"#666\"")
     }
     var group = []
     for (let i = 0; i < unique_nodes.length; i++) {
-      node_val.push(1)
-      node_color.push("\"#666\"")
       if(unique_nodes[i].toLowerCase().includes("node")) {
         group.push("\"tigers\"")
       } else {
