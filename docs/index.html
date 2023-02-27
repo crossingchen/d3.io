@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <title>forceNetwork</title>
+<script type="text/javascript" src="./lib/js/bnd2nodes.js"></script>
 <script>
   var scheduledRender;
 (function() {
@@ -1224,7 +1225,7 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
   <div id="file-section" style="bottom:50px">
       <button id="refresh-data">Refresh Widget</button>
       <label>Select data file: </label>
-      <input type="file" id="file-selector" style="width:200px;" accept=".csv"></input>
+      <input type="file" id="file-selector" style="width:200px;" accept=".bnd"></input>
   </div>
 
   <div id="htmlwidget_container">
@@ -1238,6 +1239,11 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
 <script type="text/javascript">
   function readSingleFile(file) {
     var f = file;
+    var parents_water = [];
+    var kids_water = [];
+    var parents_air = [];
+    var kids_air = [];
+
     console.log(f)
     if (f) {
       var r = new FileReader();
@@ -1245,10 +1251,17 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
         document.getElementById('file-selector').innerHTML = "parsing file...";
       };
       r.onload = function(e) {
-        var contents = e.target.result;
-        var raw = r.result
+        const contents = e.target.result;
+        const raw = r.result
         // console.log(raw)
-        csv_data = csvToArray(raw)
+        // csv_data = csvToArray(raw)
+        const nodes = bnd2nodes(raw)
+        parents_water = nodes[0];
+        kids_water = nodes[1];
+        parents_air = nodes[2];
+        kids_air = nodes[3];
+        console.log(parents_air);
+        generateLinks(parents_air, kids_air)
       }
       r.readAsText(f);
     } else {
@@ -1276,49 +1289,53 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
     generateLinks(arr)
     return arr;
   }
-  function generateLinks(arr) {
+  
+  function generateLinks(parents, kids) {
     var unique_nodes = []
-    console.log(arr)
-    for (let i = 0; i < arr.length; i++) {
-      if (!unique_nodes.includes(arr[i]["target"])) {
-        unique_nodes.push(arr[i]["target"])
+    for (let i = 0; i < parents.length; i++) {
+      if (!unique_nodes.includes(kids[i])) {
+        unique_nodes.push(kids[i])
         // console.log(arr[i]["target"])
       }
-      if (!unique_nodes.includes(arr[i]["source"])) {
-        unique_nodes.push(arr[i]["source"])
+      if (!unique_nodes.includes(parents[i])) {
+        unique_nodes.push(parents[i])
         // console.log(arr[i]["source"])
       }
     }
+    console.log(unique_nodes)
+
     // unique_nodes = unique_nodes.filter(item => item); // filter undefined values
 
-    var source_node = []
-    var target_node = []
+    var source_nodes = []
+    var target_nodes = []
     var node_val = []
     var node_color = []
-    for (let i = 0; i < arr.length; i++) {
-      source_node.push(unique_nodes.indexOf(arr[i]["source"]))
-      target_node.push(unique_nodes.indexOf(arr[i]["target"]))
-      node_val.push(1)
-      node_color.push("\"#666\"")
-
+    for (let i = 0; i < parents.length; i++) {
+      source_nodes.push(unique_nodes.indexOf(parents[i]))
+      target_nodes.push(unique_nodes.indexOf(kids[i]))
     }
     var group = []
     for (let i = 0; i < unique_nodes.length; i++) {
+      node_val.push(1)
+      node_color.push("\"#666\"")
       if(unique_nodes[i].toLowerCase().includes("node")) {
         group.push("\"tigers\"")
       } else {
         group.push("\"lions\"")
       }
     }
-    console.log(unique_nodes)
+    // console.log(unique_nodes)
     let unique_nodes_in_quote = unique_nodes.map(data => `"${data}"`);
-    console.log(source_node)
-    console.log(target_node)
-    replacement = "{\"x\":{\"links\":{\"source\"\:[" + source_node + "],\"target\"\:[" + target_node + "],\"value\"\:[" + node_val + "],\"colour\"\:[" + node_color + "]},\"nodes\":{\"name\":["
+    let parents_in_quote = parents.map(data => `"${data}"`);
+    let kids_in_quote = kids.map(data => `"${data}"`);
+    console.log(parents.length)
+    console.log(kids.length)
+    console.log(unique_nodes.length)
+
+    replacement = "{\"x\":{\"links\":{\"source\"\:[" + source_nodes + "],\"target\"\:[" + target_nodes + "],\"value\"\:[" + node_val + "],\"colour\"\:[" + node_color + "]},\"nodes\":{\"name\":["
       + unique_nodes_in_quote + "],\"group\":[" + group + "]},\"options\":{\"NodeID\":\"name\",\"Group\":\"group\",\"colourScale\":\"d3.scaleOrdinal()\\n            .domain([\'lions\', \'tigers\'])\\n           .range([\'#FF6900\', \'#694489\']);\",\"fontSize\":7,\"fontFamily\":\"serif\",\"clickTextSize\":17.5,\"linkDistance\":50,\"linkWidth\":\"function(d) { return Math.sqrt(d.value); }\",\"charge\":-30,\"opacity\":0.9,\"zoom\":true,\"legend\":false,\"arrows\":true,\"nodesize\":false,\"radiusCalculation\":\" Math.sqrt(d.nodesize)+6\",\"bounded\":false,\"opacityNoHover\":1,\"clickAction\":null}},\"evals\":[],\"jsHooks\":[]}"
  
     console.log(replacement)
-    console.log(replacement.slice(4950))
     let scriptElement = document.getElementById("node-data")
     scriptElement.innerHTML = replacement
 
