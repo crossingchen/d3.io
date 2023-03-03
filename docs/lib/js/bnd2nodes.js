@@ -26,11 +26,12 @@ function bnd2nodes(file_raw) {
       kids_air.push(clean_line.split(",").slice(-4)[0]);
       parents_air.push(clean_line.split(",").slice(-4)[0]);
       kids_air.push(clean_line.split(",").slice(-2)[0]);
-    } else if ((line.includes("Component Set,") && line.includes("Water Nodes")) || (line.includes("Component Set,") && line.includes("Pipe Nodes"))) {
+    } else if ((line.includes("Component Set,") && line.includes("Water Nodes")) || (line.includes("Component Set,") && line.includes("Pipe Nodes")) || (line.includes("Component Set,") && line.includes("Plant Nodes"))) {
       parents_water.push(clean_line.split(",").slice(-3)[0]);
       kids_water.push(clean_line.split(",").slice(-4)[0]);
       parents_water.push(clean_line.split(",").slice(-4)[0]);
       kids_water.push(clean_line.split(",").slice(-2)[0]);
+      console.log(clean_line)
     } else if (clean_line.includes("AirLoop Supply Connections") && !clean_line.includes("! <")) {
       parents_air.push(clean_line.split(",").slice(-1)[0]);
       kids_air.push(clean_line.split(",").slice(-3)[0]);
@@ -49,6 +50,9 @@ function bnd2nodes(file_raw) {
       kids_air.push(kid_air);
     } else if (clean_line.includes("Plant Loop Connector Nodes,")) {
       parents_water.push(clean_line.split(",").slice(-4)[0]);
+      kids_water.push(clean_line.split(",").slice(-3)[0]);
+
+      console.log(clean_line)
     }
   }
   // console.log(parents_water)
