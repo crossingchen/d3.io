@@ -21,7 +21,7 @@ function bnd2nodes(file_raw) {
   for (const line of bnd_lines) {
     const clean_line = line.trim();
     // console.log(clean_line)
-    if (line.includes("Component Set,") && line.includes("Air Nodes")) {
+    if ((line.includes("Component Set,") && line.includes("Air Nodes")) || (line.includes("Component Set,") && line.includes("Process Air Nodes"))) {
       parents_air.push(clean_line.split(",").slice(-3)[0]);
       kids_air.push(clean_line.split(",").slice(-4)[0]);
       parents_air.push(clean_line.split(",").slice(-4)[0]);
